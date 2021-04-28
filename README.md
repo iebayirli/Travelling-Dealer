@@ -1,6 +1,6 @@
 # Travelling Dealer
 
-This project is an implementation of the BFS algorithm. I tried to find a solution to the problem of finding the shortest path between nodes in mazes.
+This project is an implementation of the BFS algorithm. I tried to find a solution to the problem of finding the shortest path between two destination in mazes.
 
 # Screenshots
 
